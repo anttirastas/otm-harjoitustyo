@@ -9,3 +9,11 @@ Loppuun on aina hyvä laittaa inspiroiva lainaus (tässä tapauksessa asialla on
 > Change your thoughts
 > and you change your
 > world.
+
+## Tehtävät
+
+### Viikko 1
+
+[komentorivi.txt](otm-harjoitustyo/laskarit/viikko1/komentorivi.txt)
+
+[gitlog.txt](otm-harjoitustyo/laskarit/viikko1/gitlog.txt)
