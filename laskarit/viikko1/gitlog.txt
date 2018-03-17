@@ -1,3 +1,6 @@
+Tämä tiedosto sisältää tietoa komentoriviharjoituksistani.
+
+
 commit 9e2d43de015f90f79cc4ee2fc1d545e533927cbc
 Author: Antti Rastas <antti.rastas@gmail.com>
 Date:   Fri Mar 16 08:00:17 2018 +0200
