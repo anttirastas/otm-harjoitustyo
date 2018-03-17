@@ -1,0 +1,114 @@
+commit 9e2d43de015f90f79cc4ee2fc1d545e533927cbc
+Author: Antti Rastas <antti.rastas@gmail.com>
+Date:   Fri Mar 16 08:00:17 2018 +0200
+
+    Poista file1 ja uudelleennimeä file2 -- uusi nimi file22
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 6161154412c289d0c48a73a2ccb9116546476648
+Author: Antti Rastas <antti.rastas@gmail.com>
+Date:   Fri Mar 16 07:56:57 2018 +0200
+
+    Luo hakemisto tiedostoja ja sen sisälle tiedostot file1, file2 ja file3
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 6ef39c7417c35efd65df71d3185252398c1e5ba4
+Author: Antti Rastas <antti.rastas@gmail.com>
+Date:   Fri Mar 16 07:49:22 2018 +0200
+
+    Pienet muutokset tiedostoihin eka.txt ja kolmas.txt
+
+ eka.txt    | 2 +-
+ kolmas.txt | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+commit 3a772eff1e34dfa096f0404279eeb21f4a45dc3e
+Author: Antti Rastas <antti.rastas@gmail.com>
+Date:   Fri Mar 16 07:46:00 2018 +0200
+
+    Uudelleennimeä tiedosto.txt - uusi nimi eka.txt
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit c4bdfce6e2a73d544ebcd112617aec009086939e
+Author: Antti Rastas <antti.rastas@gmail.com>
+Date:   Fri Mar 16 07:43:58 2018 +0200
+
+    Poista toinen.txt
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 8fb6a2eda7eecfe03c75dc47b5c7dc93700e1b9a
+Author: Antti Rastas <antti.rastas@gmail.com>
+Date:   Fri Mar 16 07:40:36 2018 +0200
+
+    Poista hieman tekstiä ja lisää kappale Hawkingin perheestä
+
+ tiedosto.txt | 17 +++++++++++++----
+ 1 file changed, 13 insertions(+), 4 deletions(-)
+
+commit c1b29032b590c8fe7565ca6d8c780b80e10198c7
+Author: Antti Rastas <antti.rastas@gmail.com>
+Date:   Fri Mar 16 07:37:59 2018 +0200
+
+    Lisää tekstinpätkä Stephen Hawkingin Wikipedia-artikkelista
+
+ tiedosto.txt | 26 ++++++++++++++++++++++++++
+ 1 file changed, 26 insertions(+)
+
+commit d6a66bb5b2ae235b800097af20c405244543a46b
+Author: Antti Rastas <antti.rastas@gmail.com>
+Date:   Fri Mar 16 07:30:34 2018 +0200
+
+    Luotiin kansio stuff ja sen sisälle tiedosto random_file
+
+ stuff/random_file | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 1392b076be73ce0fde7f5012a3c6dd4618d5fecd
+Author: Antti Rastas <antti.rastas@gmail.com>
+Date:   Fri Mar 16 07:29:51 2018 +0200
+
+    Tehtiin muutoksia tiedostoihin toinen.txt ja kolmas.txt
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 20574b77ce9349c6076a54bd9c88fac5730414e7
+Author: Antti Rastas <antti.rastas@gmail.com>
+Date:   Fri Mar 16 07:27:34 2018 +0200
+
+    kolmas.txt luotu
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit bbaa314f2f1683ad2657093addb554d2b1d769b0
+Author: Antti Rastas <antti.rastas@gmail.com>
+Date:   Fri Mar 16 07:25:11 2018 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 2 ++
+ toinen.txt   | 0
+ 2 files changed, 2 insertions(+)
+
+commit 8d80149a3928d6ae6081c28fe09dc990ef5686e7
+Author: Antti Rastas <antti.rastas@gmail.com>
+Date:   Fri Mar 16 07:22:26 2018 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+

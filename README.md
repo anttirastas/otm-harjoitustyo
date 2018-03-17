@@ -1,0 +1,11 @@
+# Ohjelmistotekniikan menetelmät -kurssin harjoitustyö
+
+Tässä projektissa teen mitä tahansa nakkeja, joita kurssin Ohjelmistotekniikan menetelmät [laskareissa](https://github.com/mluukkai/otm-2018/tree/master/tehtavat) esiintyy. 
+
+Tähän mennessä kansioon on lähinnä kertynyt satunnaista sisältöä *gitin* ja *komentorivin* käytön harjoitteluun liittyen.
+
+Loppuun on aina hyvä laittaa inspiroiva lainaus (tässä tapauksessa asialla on [Norman Vincent Peale](https://en.wikipedia.org/wiki/Norman_Vincent_Peale)):
+
+> Change your thoughts
+> and you change your
+> world.
