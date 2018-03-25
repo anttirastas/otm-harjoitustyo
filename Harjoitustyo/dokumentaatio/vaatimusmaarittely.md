@@ -18,7 +18,13 @@ Sovellus aukeaa kirjautumisnäkymään (näkymä #1), josta on suoraan mahdollis
 
 ## Kysymyksiä käyttöliittymään liittyen
 
-Avoimia jo tunnistettuja kysymyksiä ovat ainakin: 1) millainen virheilmoitusnäkymä toteutetaan, jos kirjautumisessa tai tunnuksen luonnissa menee jokin pieleen, 2) miten uuden kuukausiraportin luominen toteutetaan, ja 3) voiko raporttipohjia kopioida seuraavalle kuukaudelle vai ei, ja jos voi, niin miten, 4) voiko kulukategorioita poistaa, voiko kuukausiraportteja poistaa, voiko yksittäisiä kuluja poistaa? 5) voiko uuden kulukategorian luoda uuden kulutapahtuman luonnin (näkymä #4) yhteydessä, vaiko pelkästään omassa kulukategorian luontiin keskittyvässä näkymässä (näkymä #3)?
+Avoimia jo tunnistettuja kysymyksiä ovat ainakin:
+
+1. millainen virheilmoitusnäkymä toteutetaan, jos kirjautumisessa tai tunnuksen luonnissa menee jokin pieleen
+2. miten uuden kuukausiraportin luominen toteutetaan, ja
+3. voiko raporttipohjia kopioida seuraavalle kuukaudelle vai ei, ja jos voi, niin miten
+4. voiko kulukategorioita poistaa, voiko kuukausiraportteja poistaa, voiko yksittäisiä kuluja poistaa?
+5. voiko uuden kulukategorian luoda uuden kulutapahtuman luonnin (näkymä #4) yhteydessä, vaiko pelkästään omassa kulukategorian luontiin keskittyvässä näkymässä (näkymä #3)?
 
 ## Perusversion tarjoama toiminnallisuus
 
