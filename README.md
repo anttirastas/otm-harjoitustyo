@@ -1,6 +1,8 @@
 # Ohjelmistotekniikan menetelmät -kurssin harjoitustyö
 
-Tässä projektissa teen mitä tahansa nakkeja, joita kurssin Ohjelmistotekniikan menetelmät [laskareissa](https://github.com/mluukkai/otm-2018/tree/master/tehtavat) esiintyy. 
+Tässä projektissa teen mitä tahansa nakkeja, joita kurssin Ohjelmistotekniikan menetelmät [laskareissa](https://github.com/mluukkai/otm-2018/tree/master/tehtavat) esiintyy.
+
+HUOM: Harjoitustyön README sijaitsee omassa kansiossaan (kansiossa "Harjoitustyo").
 
 Tähän mennessä kansioon on lähinnä kertynyt satunnaista sisältöä *gitin* ja *komentorivin* käytön harjoitteluun liittyen.
 
