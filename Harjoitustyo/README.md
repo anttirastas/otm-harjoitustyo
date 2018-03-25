@@ -6,13 +6,13 @@ Toteuttamani sovellus Ohjelmistotekniikan menetelmät -kurssin harjoitustyötä 
 
 [Käyttöohje]() --> Tulee myöhemmin
 
-[Vaatimusmäärittely](/dokumentaatio/vaatimusmaarittely.md)
+[Vaatimusmäärittely](dokumentaatio/vaatimusmaarittely.md)
 
 [Arkkitehtuurikuvaus]() --> Tulee myöhemmin
 
 [Testausdokumentti]() --> Tulee myöhemmin
 
-[Työaikakirjanpito](/dokumentaatio/tuntikirjanpito.md)
+[Työaikakirjanpito](dokumentaatio/tuntikirjanpito.md)
 
 ## Komentorivitoiminnot
 
