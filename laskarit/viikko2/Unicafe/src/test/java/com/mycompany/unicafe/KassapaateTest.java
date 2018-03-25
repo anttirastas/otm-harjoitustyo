@@ -81,12 +81,21 @@ public class KassapaateTest {
     }
     
     @Test
-    public void rahanLatausKortilleToimiiOikein() {
+    public void rahanLatausKortilleLisaaKortinSaldoaOikein() {
         this.paate.lataaRahaaKortille(korttiJollaTarpeeksiRahaa, 1000);
         assertEquals(3000, this.korttiJollaTarpeeksiRahaa.saldo());
+    }
+    
+    @Test
+    public void rahanLatausKortilleLisaaKassaanRahaaOikein() {
+        this.paate.lataaRahaaKortille(korttiJollaTarpeeksiRahaa, 1000);
         assertEquals(101000, this.paate.kassassaRahaa());
+    }
+    
+    @Test
+    public void rahanLatausKortilleEiTapahduNegatiivisellaSummalla() {
         this.paate.lataaRahaaKortille(korttiJollaTarpeeksiRahaa, -50);
-        assertEquals(3000, this.korttiJollaTarpeeksiRahaa.saldo());
-        assertEquals(101000, this.paate.kassassaRahaa());
+        assertEquals(2000, this.korttiJollaTarpeeksiRahaa.saldo());
+        assertEquals(100000, this.paate.kassassaRahaa());
     }
 }
